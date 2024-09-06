@@ -1,9 +1,10 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
+![image](https://github.com/user-attachments/assets/b4115d5b-5563-4428-a5ed-20801f6ab9ae)
+
+
+
 
 <h1>Virtual Private Networks (VPNs) </h1>
-In this tutorial, we observe how VPNs can change a machines location. <br />
+In this tutorial, we observe how VPNs can change a machines location and IP Adress. <br />
 
 
 
@@ -22,7 +23,7 @@ In this tutorial, we observe how VPNs can change a machines location. <br />
 - Create Resources in Azure
 - Observe IP Adress of current machine
 - Sign up for ProtonVPN and test the VPN connection
-- 
+- Observe chnages in Location and IP
 
 <h2>Actions and Observations</h2>
 
@@ -70,11 +71,13 @@ Step 3: Use Remote Desktop to sign into VM.
   ![image](https://github.com/user-attachments/assets/da7bbd7b-8637-4e91-add5-d7eb5398faf3)
 
 
-  Step 4: Observe IP Adresses and change them.
+  Step 4: Observe IP Adresses and Setup ProtonVPN.
   - Browse to https://whatismyipaddress.com/ from within your own machine and take note of this in a text file
   - Browse to https://whatismyipaddress.com/ from within your VIRTUAL MACHINE and take note of this in a text file
   - Sign into or Create an account for "ProtonVPN" (in the VM)
   - Go to "Downloads" and select "Windows"
+  - Open it and select Install.
+  - Sign in and open.
     ![image](https://github.com/user-attachments/assets/f034f1d0-89b4-446d-a3cb-8d28ec9a691f)
 
     ![image](https://github.com/user-attachments/assets/5e45b3e4-3e22-422f-b911-24caa2b880cc)
@@ -82,5 +85,25 @@ Step 3: Use Remote Desktop to sign into VM.
     ![image](https://github.com/user-attachments/assets/feb4c0e1-b2bf-41ed-bd7b-394800c93056)
 
     ![image](https://github.com/user-attachments/assets/8fea995d-3ca6-4689-99cf-3bb40d8fb669)
+
+    ![image](https://github.com/user-attachments/assets/dd13a169-ed70-4872-ace1-2588cb221860)
+    
+    ![image](https://github.com/user-attachments/assets/f72d48fe-f651-4d2c-bce0-c0a6d1f80162)
+
+    ![image](https://github.com/user-attachments/assets/bd71fef7-5c00-4eaf-bb6f-43629e1781e0)
+
+  Step 5: Change location and Observe
+  - Select "Quick Connect"
+  - See where it assign you.
+  - Browse to https://whatismyipaddress.com/ from within your VIRTUAL MACHINE and take note of this in a text file.
+  - Observe the changes
+
+
+    ![image](https://github.com/user-attachments/assets/deda4ee4-c9ff-478c-9157-e8b48e60fb7c)
+
+    ![image](https://github.com/user-attachments/assets/ee7d5326-85d3-4fa4-b95c-0771766b7fd4)
+
+    ![image](https://github.com/user-attachments/assets/5c6fad9c-310e-47c8-8fbf-fee536605895)
+
 
 
