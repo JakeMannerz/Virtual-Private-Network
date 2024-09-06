@@ -105,5 +105,6 @@ Step 3: Use Remote Desktop to sign into VM.
 
     ![image](https://github.com/user-attachments/assets/5c6fad9c-310e-47c8-8fbf-fee536605895)
 
-
+The Lab is Complete!
+-Make sure to clean up resources!
 
